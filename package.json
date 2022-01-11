@@ -1,0 +1,28 @@
+{
+  "name": "cypress-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivianh1234/cypress-course.git"
+  },
+  "keywords": [
+    "testing",
+    "cypress"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vivianh1234/cypress-course/issues"
+  },
+  "homepage": "https://github.com/vivianh1234/cypress-course#readme",
+  "dependencies": {
+    "cypress": "^9.2.1",
+    "prettier": "^2.5.1"
+  }
+}
